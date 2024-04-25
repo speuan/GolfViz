@@ -11,3 +11,7 @@ The k & l keys rotate the overlay.
 Once its in place you can push "p" to save an image of what you can see.
 
 Let me know if it works!
+
+
+
+![Sample Output](https://github.com/speuan/GolfViz/assets/4250046/f58bbc95-494e-455b-a8a7-6e650669c395)
